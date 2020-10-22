@@ -29,5 +29,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-
+    //    lottie 太高有bug，太低有bug，这个版本正好
+    implementation 'com.airbnb.android:lottie:2.3.0'
 }
